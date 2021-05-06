@@ -1,2 +1,2 @@
-# lasam (a play on Shazam)
-An application that recognizes songs playing from your computer audio
+# lasam
+Shazam, but for audio playing on your computer
